@@ -1,0 +1,25 @@
+{
+  "name": "simple-svg-captcha",
+  "version": "1.0.0",
+  "description": "Generate simple and secure captcha in nodejs (in SVG format) to prevent robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buom01/simple-svg-captcha.git"
+  },
+  "keywords": [
+    "SVG",
+    "captcha",
+    "robot",
+    "security"
+  ],
+  "author": "Bastien ADAM @Buom01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buom01/simple-svg-captcha/issues"
+  },
+  "homepage": "https://github.com/buom01/simple-svg-captcha#readme"
+}
