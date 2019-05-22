@@ -17,8 +17,8 @@ simpleSvgCaptcha.generate().then(({image, token})=>{
 
 ## Why
 ### Why an other SVG captcha package ?
-Because [svg-captcha](https://www.npmjs.com/package/svg-captcha) has a big problem of security (at least accorting to me):
-Path of text has fill property and noise has stroke property which make text easily discernable.
+Because [svg-captcha](https://www.npmjs.com/package/svg-captcha) has a big problem of security (at least according to me):
+Path of text has fill property while noise has stroke property which make text easily discernable.
 When you remove noise, even if text is transformed to path, the font is know and then you just need to each image caracter whith know caracter for a match.
 
 Simple SVG captcha solve this mainly by trying to make no difference between text and noise, suffle them in order, and finally deform randomly all paths.
