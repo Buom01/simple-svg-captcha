@@ -44,6 +44,6 @@ You could simply allow user to zoom image three time, and also allow to apply fi
 
 (Answer is the image filename)
 
-- ![Captcha JZDTVG](https://raw.githubusercontent.com/Buom01/simple-svg-captcha/master/JZDTVG.svg)
-- ![Captcha OHG1UL](https://raw.githubusercontent.com/Buom01/simple-svg-captcha/master/OHG1UL.svg)
-- ![Captcha ACAKH1](https://raw.githubusercontent.com/Buom01/simple-svg-captcha/master/ACAKH1.svg)
+- ![Captcha JZDTVG](JZDTVG.svg)
+- ![Captcha OHG1UL](OHG1UL.svg)
+- ![Captcha ACAKH1](ACAKH1.svg)
