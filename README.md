@@ -36,9 +36,9 @@ Independance + privacy granted while keeping speed.
 - Make noise more complicated for a computer to discernable (mainly due to noise size)
 - Enchance accessibility (does other captcha plugin take care of it ?).
 
-## accessibility
+## Accessibility
 
-You could simply allow user to zoom image three time, and also allow to apply filter like `filter: brightness(0.5);`
+You could simply allow user to zoom image three time, and also allow to apply CSS filter like `filter: brightness(0.5);`
 
 ## Demos
 
