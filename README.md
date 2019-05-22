@@ -23,6 +23,8 @@ When you remove noise, even if text is transformed to path, the font is know and
 
 Simple SVG captcha solve this mainly by trying to make no difference between text and noise, suffle them in order, and finally deform randomly all paths.
 
+Moreover simple-svg-captcha also unify similar like O08 by keeping only O (and Q) : You should take care of it when you verify token to be user friendly.
+
 ### Why SVG ?
 SVG is a really light format of image, which is really good for mobile network. Moreover dealing with image in JavaScript is not so easy. While SVG is kind of text, it's a lot more easy to generate it on the server.
 It got on a Intel duo less than 20ms to generate an image/token pair.
